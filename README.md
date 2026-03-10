@@ -1,5 +1,5 @@
 ---
-title: AI Energy Calculator (August 2025 Archive)
+title: EcoLogits (August 2025 Archive)
 emoji: ⚡
 colorFrom: green
 colorTo: blue
